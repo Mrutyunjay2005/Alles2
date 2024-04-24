@@ -1,0 +1,898 @@
+.background11 {
+  position: absolute;
+  height: calc(100% + 5px);
+  width: 1350px;
+  top: -2.5px;
+  right: -2.5px;
+  bottom: -2.5px;
+  left: -2.5px;
+  background-color: #fff;
+  border: 5px solid white;
+  box-sizing: border-box;
+}
+.rule24 {
+  align-self: stretch;
+  position: relative;
+  border-top: 2px solid rgba(5, 24, 42, 0.9);
+  box-sizing: border-box;
+  height: 2px;
+}
+.about16,
+.contact16,
+.home19,
+.learning17,
+.testimonial19 {
+  align-self: stretch;
+  position: relative;
+  line-height: 100%;
+  cursor: pointer;
+}
+.options19 {
+  position: absolute;
+  top: 73px;
+  left: 740px;
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  cursor: pointer;
+}
+.rule25 {
+  align-self: stretch;
+  position: relative;
+  border-top: 2px solid rgba(5, 24, 42, 0.9);
+  box-sizing: border-box;
+  height: 2px;
+}
+.alles-20238,
+.alles-affiliate-marketing8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 125%;
+}
+.alles-20238 {
+  line-height: 100%;
+}
+.options20 {
+  position: absolute;
+  top: 73px;
+  left: 513px;
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 12px;
+}
+.b6,
+.helloallescom16,
+.rule26 {
+  align-self: stretch;
+  position: relative;
+}
+.rule26 {
+  border-top: 2px solid rgba(5, 24, 42, 0.9);
+  box-sizing: border-box;
+  height: 2px;
+}
+.b6,
+.helloallescom16 {
+  line-height: 100%;
+}
+.options21 {
+  position: absolute;
+  top: 73px;
+  left: 967px;
+  width: 186px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.unlock-the-path8 {
+  position: absolute;
+  top: 73px;
+  left: calc(50% - 660px);
+  font-size: 32px;
+  line-height: 100%;
+  display: inline-block;
+  width: 413px;
+}
+.alles16,
+.logo8 {
+  position: absolute;
+}
+.logo8 {
+  top: 386px;
+  left: 50px;
+  width: 84px;
+  height: 31px;
+  overflow: hidden;
+}
+.alles16 {
+  height: 15.75%;
+  width: 11.94%;
+  top: 66.87%;
+  left: 3.47%;
+  font-size: 64px;
+  line-height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.facebook-icon10,
+.instagram-icon10,
+.phone-icon9,
+.twitter-icon10 {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-icons6 {
+  position: absolute;
+  top: 368px;
+  left: calc(50% - 211px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 98px;
+}
+.helloallescom17 {
+  position: absolute;
+  top: 170px;
+  left: 890px;
+  font-size: 63px;
+  line-height: 100%;
+  display: inline-block;
+  font-weight: 300;
+  background: linear-gradient( 18deg, rgb(0, 28, 255) 30.5%, rgb(5, 255, 0) 50.51%, rgb(0, 52, 255) 90.00% ); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 599px;
+}
+.footer8,
+.group-child34 {
+  position: absolute;
+  left: 0;
+  width: 1349px;
+}
+.footer8 {
+  top: 3536px;
+  height: 489px;
+  overflow: hidden;
+}
+.group-child34 {
+  top: 316px;
+  background-color: white;
+  height: 2710px;
+}
+.going-all-in-with {
+  position: absolute;
+  top: 556px;
+  left: 3px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 613px;
+  left: 3px;
+  font-size: 15px;
+  line-height: 150%;
+  color: #9f9f9f;
+  text-align: justify;
+  display: inline-block;
+  width: 817px;
+}
+.admin,
+.group-child35 {
+  position: absolute;
+  top: 0;
+}
+.group-child35 {
+  left: 3px;
+  border-radius: 10px;
+  width: 817px;
+  height: 500px;
+  object-fit: cover;
+}
+.admin {
+  left: 27px;
+}
+.dashiconsadmin-users {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.admin-parent,
+.wood {
+  position: absolute;
+  top: 0;
+}
+.admin-parent {
+  left: 0;
+  width: 80px;
+  height: 24px;
+}
+.wood {
+  left: 31px;
+}
+.citag-icon,
+.wood-parent {
+  position: absolute;
+  top: 0;
+  height: 24px;
+}
+.citag-icon {
+  left: 0;
+  width: 24px;
+  overflow: hidden;
+}
+.wood-parent {
+  left: 271px;
+  width: 78px;
+}
+.oct-2022,
+.uiscalender-icon {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.uiscalender-icon {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-parent8,
+.oct-2022-parent {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  width: 121px;
+  height: 24px;
+}
+.group-parent8 {
+  top: 517px;
+  left: 0;
+  width: 349px;
+  color: #9f9f9f;
+}
+.group-child36,
+.read-more {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child36 {
+  top: 36px;
+  left: 6px;
+  border-top: 1px solid black;
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.read-more-parent {
+  position: absolute;
+  top: 758px;
+  left: 3px;
+  width: 89px;
+  height: 36px;
+  text-align: justify;
+}
+.going-all-in-with-millennial-d-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.exploring-new-ways {
+  position: absolute;
+  top: 556px;
+  left: 3px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.group-child37,
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  left: 3px;
+  width: 817px;
+}
+.lorem-ipsum-dolor1 {
+  top: 613px;
+  font-size: 15px;
+  line-height: 150%;
+  color: #9f9f9f;
+  text-align: justify;
+  display: inline-block;
+}
+.group-child37 {
+  top: 0;
+  border-radius: 10px;
+  height: 500px;
+  object-fit: cover;
+}
+.admin1 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+.dashiconsadmin-users1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.admin-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 24px;
+}
+.handmade {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.citag-icon1,
+.handmade-parent {
+  position: absolute;
+  top: 0;
+  height: 24px;
+}
+.citag-icon1 {
+  left: 0;
+  width: 24px;
+  overflow: hidden;
+}
+.handmade-parent {
+  left: 271px;
+  width: 122px;
+}
+.oct-20221,
+.uiscalender-icon1 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.uiscalender-icon1 {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-parent9,
+.oct-2022-group {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  width: 121px;
+  height: 24px;
+}
+.group-parent9 {
+  top: 517px;
+  left: 0;
+  width: 393px;
+  color: #9f9f9f;
+}
+.group-child38,
+.read-more1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child38 {
+  top: 36px;
+  left: 6px;
+  border-top: 1px solid black;
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.read-more-group {
+  position: absolute;
+  top: 758px;
+  left: 3px;
+  width: 89px;
+  height: 36px;
+  text-align: justify;
+}
+.exploring-new-ways-of-decorati-parent {
+  position: absolute;
+  top: 848px;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.handmade-pieces-that {
+  position: absolute;
+  top: 556px;
+  left: 3px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.group-child39,
+.lorem-ipsum-dolor2 {
+  position: absolute;
+  left: 3px;
+  width: 817px;
+}
+.lorem-ipsum-dolor2 {
+  top: 613px;
+  font-size: 15px;
+  line-height: 150%;
+  color: #9f9f9f;
+  text-align: justify;
+  display: inline-block;
+}
+.group-child39 {
+  top: 0;
+  border-radius: 10px;
+  height: 500px;
+  object-fit: cover;
+}
+.admin2 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+.dashiconsadmin-users2 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.admin-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 24px;
+}
+.wood1 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.citag-icon2,
+.wood-group {
+  position: absolute;
+  top: 0;
+  height: 24px;
+}
+.citag-icon2 {
+  left: 0;
+  width: 24px;
+  overflow: hidden;
+}
+.wood-group {
+  left: 271px;
+  width: 78px;
+}
+.oct-20222,
+.uiscalender-icon2 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.uiscalender-icon2 {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-parent10,
+.oct-2022-container {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  width: 121px;
+  height: 24px;
+}
+.group-parent10 {
+  top: 517px;
+  left: 0;
+  width: 349px;
+  color: #9f9f9f;
+}
+.group-child40,
+.read-more2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child40 {
+  top: 36px;
+  left: 6px;
+  border-top: 1px solid black;
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.read-more-container {
+  position: absolute;
+  top: 758px;
+  left: 3px;
+  width: 89px;
+  height: 36px;
+  text-align: justify;
+}
+.group-parent7,
+.handmade-pieces-that-took-time-parent {
+  position: absolute;
+  top: 1696px;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.group-parent7 {
+  top: 455px;
+  left: 275px;
+  height: 2490px;
+}
+.trophy-1-icon {
+  width: 60px;
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.crafted-from-top,
+.high-quality {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.crafted-from-top {
+  font-size: 20px;
+  font-weight: 500;
+  color: #898989;
+}
+.text1,
+.trophy-1-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.trophy-1-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.guarantee-icon {
+  width: 60px;
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child15 {
+  width: 85px;
+  position: relative;
+  height: 85px;
+  display: none;
+}
+.over-2-years,
+.warranty-protection {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.over-2-years {
+  font-size: 20px;
+  font-weight: 500;
+  color: #898989;
+}
+.text2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.guarantee-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.shipping-icon {
+  width: 60px;
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.free-shipping,
+.order-over-150 {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.order-over-150 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #898989;
+}
+.text3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.shipping-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.customer-support-icon {
+  width: 60px;
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dedicated-support,
+.support {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.dedicated-support {
+  font-size: 22px;
+  font-weight: 500;
+  color: #898989;
+}
+.customer-support-parent,
+.text4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.customer-support-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+.feature,
+.feature-wrapper {
+  width: 1334px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.feature-wrapper {
+  position: absolute;
+  top: 3084px;
+  left: 0;
+  background-color: #fff;
+  width: 1349px;
+  height: 270px;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px 0;
+  box-sizing: border-box;
+  font-size: 25px;
+  color: #242424;
+}
+.wrapper-rectangle-1-item {
+  width: 1329px;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.038);
+}
+.wrapper-rectangle-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 316px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blog3 {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  font-weight: 500;
+}
+.meubel-house-logos-05-icon1 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.blog-parent {
+  position: absolute;
+  top: 61px;
+  left: 667px;
+  width: 107px;
+  height: 133px;
+}
+.blog4,
+.home20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.blog4 {
+  left: 80px;
+  font-weight: 300;
+}
+.dashiconsarrow-down-alt23 {
+  position: absolute;
+  top: 2px;
+  left: 54px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.home-group {
+  position: absolute;
+  top: 195px;
+  left: 660px;
+  width: 115px;
+  height: 24px;
+  font-size: 16px;
+}
+.wrapper-rectangle-1-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 316px;
+  font-size: 48px;
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: 82px;
+  left: 0;
+  width: 1440px;
+  height: 3354px;
+  color: black;
+  font-family: Poppins;
+}
+.alles17 {
+  position: absolute;
+  height: 100%;
+  width: 151.19%;
+  top: 0;
+  left: 0.6%;
+  line-height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.national-geographic-logo8 {
+  width: 84px;
+  position: relative;
+  height: 31px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.about17,
+.home21,
+.learning18,
+.testimonial20 {
+  position: relative;
+  cursor: pointer;
+}
+.learning18 {
+  color: #05182a;
+}
+.left-col6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.div10 {
+  position: relative;
+  font-size: 20px;
+  text-align: left;
+}
+.contact17 {
+  position: relative;
+  font-weight: 600;
+  cursor: pointer;
+}
+.right-col6 {
+  justify-content: center;
+}
+.nav-options6,
+.nav8,
+.right-col6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nav-options6 {
+  justify-content: center;
+  gap: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: rgba(5, 24, 42, 0.6);
+}
+.nav8 {
+  width: 1323px;
+  justify-content: space-between;
+}
+.nav-bar-child3 {
+  width: 1441px;
+  position: relative;
+  border-top: 1px solid rgba(5, 24, 42, 0.3);
+  box-sizing: border-box;
+  height: 1px;
+}
+.nav-bar8 {
+  position: absolute;
+  top: -13px;
+  left: 0;
+  width: 1349px;
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 32px 0;
+  box-sizing: border-box;
+  gap: 32px;
+  font-size: 36px;
+}
+.blog2 {
+  width: 100%;
+  position: relative;
+  background: rgb(35,153,240);
+  background: linear-gradient(315deg, rgba(35,153,240,1) 0%, rgba(0,255,162,0.8) 100%); ;
+  height: 4025px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(5, 24, 42, 0.9);
+  font-family: "Open Sans";
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+

@@ -1,0 +1,458 @@
+.about-us1,
+.at-alles-our,
+.blank-line,
+.blank-line1,
+.blank-line2,
+.blank-line3,
+.blank-line4,
+.can-be-overwhelming,
+.greatest-products-in,
+.make-informed-purchasing,
+.our-mission,
+.recommendations-expert-review,
+.resource-for-reliable,
+.services-through-trusted,
+.welcome-to-alles,
+.what-sets-us-apart {
+  margin: 0;
+}
+.unbiased-reviews-our-team-of1 {
+  margin-bottom: 0;
+}
+.unbiased-reviews-our-team-of {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 37px;
+}
+.ensuring-that-you {
+  margin: 0;
+}
+.expert-insights-we-go-beyond1 {
+  margin-bottom: 0;
+}
+.expert-insights-we-go-beyond {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 37px;
+}
+.pros-and-cons {
+  margin: 0;
+}
+.exclusive-deals-we-work-close1 {
+  margin-bottom: 0;
+}
+.exclusive-deals-we-work-close {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 37px;
+}
+.blank-line5,
+.blank-line6,
+.blank-line7,
+.how-we-work,
+.our-affiliate-partnerships,
+.purchase-rest-assured,
+.special-offers-ensuring,
+.when-you-explore {
+  margin: 0;
+}
+.your-trust-matters1 {
+  font-weight: 700;
+}
+.affiliate-marketing-insights,
+.and-we-are,
+.blank-line10,
+.blank-line8,
+.blank-line9,
+.everything-we-do,
+.thank-you-for,
+.towards-the-best,
+.trust-is-the,
+.your-trust-matters {
+  margin: 0;
+}
+.happy-shopping1 {
+  font-weight: 700;
+}
+.blank-line11,
+.happy-shopping {
+  margin: 0;
+}
+.about-us-welcome-container {
+  position: absolute;
+  top: 179px;
+  left: 156px;
+  line-height: 150%;
+  color: black;
+  width: 1250px;
+}
+
+.at-alles-our{
+  background-color: white;
+}
+
+.background5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(5, 24, 42, 0.05);
+}
+.rule6 {
+  align-self: stretch;
+  position: relative;
+  border-top: 2px solid rgba(5, 24, 42, 0.9);
+  box-sizing: border-box;
+  height: 2px;
+}
+.about4,
+.contact4,
+.home5,
+.learning5,
+.testimonial4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 100%;
+  cursor: pointer;
+}
+.options1 {
+  position: absolute;
+  top: 73px;
+  left: 740px;
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.rule7 {
+  align-self: stretch;
+  position: relative;
+  border-top: 2px solid rgba(5, 24, 42, 0.9);
+  box-sizing: border-box;
+  height: 2px;
+}
+.alles-20232,
+.alles-affiliate-marketing2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 125%;
+}
+.alles-20232 {
+  line-height: 100%;
+}
+.options2 {
+  position: absolute;
+  top: 73px;
+  left: 513px;
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 12px;
+}
+.b,
+.helloallescom3,
+.rule8 {
+  align-self: stretch;
+  position: relative;
+}
+.rule8 {
+  border-top: 2px solid rgba(5, 24, 42, 0.9);
+  box-sizing: border-box;
+  height: 2px;
+}
+.b,
+.helloallescom3 {
+  line-height: 100%;
+}
+.options3 {
+  position: absolute;
+  top: 73px;
+  left: 967px;
+  width: 186px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.unlock-the-path2 {
+  position: absolute;
+  top: 73px;
+  left: calc(50% - 660px);
+  font-size: 32px;
+  line-height: 100%;
+  display: inline-block;
+  width: 413px;
+}
+.alles4,
+.logo2 {
+  position: absolute;
+}
+.logo2 {
+  top: 386px;
+  left: 50px;
+  width: 84px;
+  height: 31px;
+  overflow: hidden;
+}
+.alles4 {
+  height: 15.75%;
+  width: 11.94%;
+  top: 66.87%;
+  left: 3.47%;
+  font-size: 64px;
+  line-height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.facebook-icon4,
+.instagram-icon4,
+.phone-icon3,
+.twitter-icon4 {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-icons {
+  position: absolute;
+  top: 368px;
+  left: calc(50% - 211px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 98px;
+}
+.helloallescom4 {
+  position: absolute;
+  top: 188px;
+  left: 869px;
+  font-size: 78px;
+  line-height: 100%;
+  display: inline-block;
+  font-weight: 300;
+  background: linear-gradient( 18deg, rgb(0, 28, 255) 30.5%, rgb(5, 255, 0) 50.51%, rgb(0, 52, 255) 90.00% ); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 599px;
+}
+.footer2 {
+  position: absolute;
+  top: 2117px;
+  left: 0;
+  width: 1440px;
+  height: 489px;
+  overflow: hidden;
+  font-size: 16px;
+}
+.alles5 {
+  position: absolute;
+  height: 100%;
+  width: 151.19%;
+  top: 0;
+  left: 0.6%;
+  line-height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.national-geographic-logo2 {
+  width: 84px;
+  position: relative;
+  height: 31px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.about5,
+.home6 {
+  position: relative;
+  cursor: pointer;
+  font-weight: 600;
+}
+.about5 {
+  color: #05182a;
+}
+.learning6,
+.testimonial5 {
+  position: relative;
+  font-weight: 600;
+  cursor: pointer;
+}
+.left-col {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.contact5,
+.div {
+  position: relative;
+}
+.div {
+  font-size: 20px;
+  text-align: left;
+}
+.contact5 {
+  font-weight: 600;
+  cursor: pointer;
+}
+.right-col {
+  justify-content: center;
+  cursor: pointer;
+}
+.nav-options,
+.nav2,
+.right-col {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nav-options {
+  justify-content: center;
+  gap: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: rgba(5, 24, 42, 0.6);
+}
+.nav2 {
+  width: 1323px;
+  justify-content: space-between;
+}
+.nav-bar-child {
+  width: 1441px;
+  position: relative;
+  border-top: 1px solid rgba(5, 24, 42, 0.3);
+  box-sizing: border-box;
+  height: 1px;
+}
+.nav-bar2 {
+  position: absolute;
+  top: -13px;
+  left: 0;
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 32px 0;
+  box-sizing: border-box;
+  gap: 32px;
+  font-size: 36px;
+}
+.about-us {
+  width: 100%;
+  position: relative;
+  background: rgb(0,255,192);
+  background: linear-gradient(27deg, rgba(0,255,192,1) 34%, rgba(9,9,121,1) 34%, rgba(0,212,255,1) 69%); ;
+  height: 2624px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 28px;
+  color: rgba(5, 24, 42, 0.9);
+  font-family: "Open Sans";
+}
+
+a{
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+}
+
+.blank-line{
+  background-color: aquamarine;
+}
+
+.div1,.at-alles-our{
+  background-color: aquamarine;
+  width: 1250px;
+}
+#about-u-s,.our-mission,.what-sets-us-apart,.how-we-work,.your-trust-matters,.happy-shopping{
+  background-color: white;
+  text-align: center;
+}
+
+.unbiased-reviews-our-team-of,
+.expert-insights-we-go-beyond,
+.exclusive-deals-we-work-close,
+.exclusive-deals-we-work-close1
+{
+  background-color: aquamarine;
+  width: 1213px;
+}
+.when-you-explore,
+.trust-is-the
+{
+  background-color: aquamarine;
+  width: 1250px;
+}
+
+.home6 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+
+.about5 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+
+.testimonial5 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+
+.learning6 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+
+.right-col a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+
+.home5 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+.about4 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+.testimonial4 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+.learning5 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+.contact4 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
+.options3 a:hover{
+  color: white;
+  font-size: large;
+  font-weight: 800;
+}
